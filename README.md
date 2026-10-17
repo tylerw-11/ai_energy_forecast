@@ -1,1 +1,2 @@
-# IBMDatathon
+# AI Energy Forecast
+## IBM Datathon
