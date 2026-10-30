@@ -86,6 +86,4 @@ if __name__ == "__main__":
     energy = pd.DataFrame(
         get_energy_data(),
         columns=["Year", "Month", "Total"]
-    )
-
-# el gpt is cracked bro
+    ) 
