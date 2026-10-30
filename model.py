@@ -228,5 +228,3 @@ if __name__ == "__main__":
     print("Training complete.")
     print("Observations:", len(matched))
     print("Example prediction:", get_prediction(1, 8.0))
-
-# el gpt is cracked bro
